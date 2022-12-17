@@ -1,0 +1,65 @@
+H1{
+    text-align: center;
+}
+
+.section{
+    padding: 20px;
+    border: 10px solid rgb(2, 17, 2);
+    background-color: aqua;
+    width: fit-content;
+}
+.form{
+    display: grid;
+    /* flex-direction: column; */
+     /* align-items: center; */
+     justify-content: center; 
+}
+.first,.last,.add,.pin,.gender,.state,.country{
+   margin: 5px 10px;
+   padding: 20px;
+}
+#Firstname,#Lastname,#address,#pincode,#choosegender,#state,#country{
+    margin: 5px 10px;
+    
+}
+.div1,.div2,.div3,.div4,.divr,.div5,.div7,.div8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.maindivision{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.table,.tablerow1,.tablerow2{
+    border: 2px solid rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+}
+#data1,#data2,#data3,#data4,#data5,#data6,#data7,#data8{
+    border: 2px solid rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: medium;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#data21,#data22,#data23,#data24,#data25,#data26,#data27,#data28{
+    border: 2px solid rebeccapurple;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: medium;
+    font-weight:200;
+   
+    font-family: 'Times New Roman', Times, serif;
+}
+#headingid{
+    margin-top: 100px;
+    
+}
