@@ -141,14 +141,14 @@ row1.append(createdata("data8","Choice of Food"));
 
 
 var row2=createrow("row2","tablerow2");
-row2.append(createdata("data21","FirstName"));
-row2.append(createdata("data22","LastName"));
-row2.append(createdata("data23","Address"));
-row2.append(createdata("data24","Pincode"));
-row2.append(createdata("data25","Gender"));
-row2.append(createdata("data26","State"));
-row2.append(createdata("data27","Country"));
-row2.append(createdata("data28","Choice of Food"));
+row2.append(createdata("data21"," "));
+row2.append(createdata("data22"," "));
+row2.append(createdata("data23"," "));
+row2.append(createdata("data24"," "));
+row2.append(createdata("data25"," "));
+row2.append(createdata("data26"," "));
+row2.append(createdata("data27"," "));
+row2.append(createdata("data28","  "));
 
 table.append(row1,row2);
 
