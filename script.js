@@ -74,7 +74,7 @@ let divr = document.createElement("div");
 divr.setAttribute("class", "divr");
 
 let p = document.createElement("p");
-const text = document.createTextNode("Select any 3 food items you like from below one.");
+const text = document.createTextNode("Select any 2 food items you like from 5 choices.");
 p.append(text);
 
 let div6 = document.createElement("div");
